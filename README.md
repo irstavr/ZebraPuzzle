@@ -17,9 +17,9 @@ In addition,
 
 The question is ...Who ordered the fruit cup?
 
+########################################################################
 
-Usage
-Run Prolog.
+Usage:
 
 Load code included in repository:
 
