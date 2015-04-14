@@ -1,4 +1,4 @@
-# ZebraPuzzle
+# Zebra Puzzle
 The zebra puzzle is a well-known logic puzzle. It is often called Einstein's Puzzle or Einstein's Riddle. http://en.wikipedia.org/wiki/Zebra_Puzzle
 ###############################################################################################################
 
@@ -18,6 +18,8 @@ In addition,
 The question is ...Who ordered the fruit cup?
 
 ########################################################################
+
+Solution of this puzzle is implemented in Prolog language.
 
 Usage:
 
