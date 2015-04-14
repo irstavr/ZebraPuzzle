@@ -5,11 +5,8 @@ The zebra puzzle is a well-known logic puzzle. It is often called Einstein's Puz
 This is a version of Zebra puzzle:
 
 Steve, Sue, Sara, and Sam were seated at a table in a restaurant. 
-
 The men sat across from each other, as did the women. 
-
 They each ordered a different dessert and a different beverage. 
-
 In addition,
 (a) Sara never drinks milk.
 (b) The cake came with coffee.
