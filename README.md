@@ -24,11 +24,12 @@ Usage:
 Load code included in repository:
 
 Load solver:
+
 | ?- consult(zebraPuzzle.pl).
 
 Run solver:
-| ?- 
-find_solution(Sara, Sue, Steve, Sam,
+
+| ?- find_solution(Sara, Sue, Steve, Sam,
               Pie, Fruit_cup, Ice_cream, Cake,
               Coffee, Tea, Water, Milk).
 
