@@ -31,4 +31,5 @@ Run solver:
 find_solution(Sara, Sue, Steve, Sam,
               Pie, Fruit_cup, Ice_cream, Cake,
               Coffee, Tea, Water, Milk).
+
 Solution will be written on the output.
