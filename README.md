@@ -2,7 +2,7 @@
 The zebra puzzle is a well-known logic puzzle. It is often called Einstein's Puzzle or Einstein's Riddle. http://en.wikipedia.org/wiki/Zebra_Puzzle
 ###############################################################################################################
 
-This is a version of Zebra puzzle:
+## This is a version of Zebra puzzle: ##
 
 Steve, Sue, Sara, and Sam were seated at a table in a restaurant. 
 The men sat across from each other, as did the women. 
@@ -15,23 +15,23 @@ In addition,
 (e) Steve always orders water.
 (f) Sue did not eat pie.
 
-The question is ...Who ordered the fruit cup?
+### The question is ...Who ordered the fruit cup? ###
 
 ########################################################################
 
 Solution of this puzzle is implemented in Prolog language.
 
-Usage:
+## Usage: ##
 
 Load code included in repository:
 
 Load solver:
 
-| ?- consult(zebraPuzzle.pl).
+>NOTE | ?- consult(zebraPuzzle.pl).
 
-Run solver:
+## Run solver:## 
 
-| ?- find_solution(Sara, Sue, Steve, Sam,
+>NOTE | ?- find_solution(Sara, Sue, Steve, Sam,
               Pie, Fruit_cup, Ice_cream, Cake,
               Coffee, Tea, Water, Milk).
 
