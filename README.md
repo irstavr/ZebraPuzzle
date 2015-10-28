@@ -23,15 +23,15 @@ Solution of this puzzle is implemented in Prolog language.
 
 ## Usage: ##
 
-Load code included in repository:
+Load code included in repository.
 
-Load solver:
+### Load solver: ###
 
->NOTE | ?- consult(zebraPuzzle.pl).
+> | ?- consult(zebraPuzzle.pl).
 
-## Run solver:## 
+### Run solver: ### 
 
->NOTE | ?- find_solution(Sara, Sue, Steve, Sam,
+> | ?- find_solution(Sara, Sue, Steve, Sam,
               Pie, Fruit_cup, Ice_cream, Cake,
               Coffee, Tea, Water, Milk).
 
